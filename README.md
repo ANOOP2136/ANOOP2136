@@ -10,6 +10,8 @@ Product Philosophy: Ship early, iterate based on "the vibe," and automate the mu
 
 
 ⚡ Recent Sprints
+
+
 Class Monitor: Built a secure attendance system via Flutter in under 36 hours using AI-driven development.
 Vibecon Participant: Specialized in high-stakes, 48-hour builds using natural language logic.
 
